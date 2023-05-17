@@ -1,6 +1,4 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;  file name   : multiply.asm                           ;
-;  author      : Thomas Farmer
 ;  description : LC4 Assembly program to multiply two   ;
 ;                integers using repeated addition       ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
