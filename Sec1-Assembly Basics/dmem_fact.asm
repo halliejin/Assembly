@@ -1,6 +1,4 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;  file name   : dmem_fact.asm                      ;
-;  author      : 
 ;  description : LC4 Assembly program to compute the    ;
 ;                factorial of a number                  ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
